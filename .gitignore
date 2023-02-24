@@ -2,4 +2,6 @@
 *.csv
 *.xlsx
 *.png
-01_solution_probability_model/04_svm/old
+01_solution_probability_model/03_svm/old
+01_solution_probability_model/04_nn/nn_old
+01_solution_probability_model/00_preprocessing
