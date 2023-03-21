@@ -8,11 +8,9 @@ A detailed description of the solution probability model and the fairness evalua
 tba
 
 It is possible to run the solution probability model. The data files are provided in Zenodo:
-Due to GDPR restrictions files for fairness evaluation are not published
+10.5281/zenodo.7755363
+
+Due to GDPR restrictions files for fairness evaluation are not published.
 
 Data to run solution probability model:
 - data_solution_probability_model.pkl
-- 01_decision_tree/
-- 02_logistic_regression/
-- 03_svm/
-- 04_nn/
